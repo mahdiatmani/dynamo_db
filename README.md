@@ -1,1 +1,1 @@
-#dynamo_db
+dynamo_db
