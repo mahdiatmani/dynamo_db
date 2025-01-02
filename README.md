@@ -1,1 +1,1 @@
-dynamo_db
+pip install -r requirements.txt
